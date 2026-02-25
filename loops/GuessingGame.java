@@ -27,7 +27,7 @@ public class GuessingGame {
             }
 
             else if (Guess < secretNumber) {
-                System.out.println("Too low!Try again,");
+                System.out.println("Too lower!Try again,");
             }
 
 
